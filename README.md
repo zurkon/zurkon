@@ -9,6 +9,15 @@
   <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" />.
 </p>
 
+<p>
+  🌱 I’m currently learning: 
+</p>
+<p>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
 <h2>Things I code with</h2>
 
 <h3>Programming Languages</h3>
@@ -71,6 +80,19 @@
 <p>
   <img alt="GTX 1060 Max-Q" src="https://img.shields.io/badge/NVIDIA-GTX1060%20MAX_Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/zurkon" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasyoshioka" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</p>
+
+
+> **Fun Fact**: Why do programmers prefer dark mode? _Cause **light** attracts **bugs**!_ <img src="https://emojis.slackmojis.com/emojis/images/1643514981/10082/headset_parrot.gif?1643514981" width="24"/>
 <!--
 **zurkon/zurkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
