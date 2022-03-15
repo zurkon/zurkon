@@ -91,8 +91,12 @@
   </a> 
 </p>
 
+<h3>
+  Fun Fact
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514981/10082/headset_parrot.gif?1643514981" width="25"/>
+</h3>
 
-> **Fun Fact**: Why do programmers prefer dark mode? _Cause **light** attracts **bugs**!_ <img src="https://emojis.slackmojis.com/emojis/images/1643514981/10082/headset_parrot.gif?1643514981" width="24"/>
+Why do programmers prefer dark mode? _Cause **light** attracts **bugs**!_
 <!--
 **zurkon/zurkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
