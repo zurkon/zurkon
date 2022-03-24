@@ -66,19 +66,19 @@
 <h2>Computer Specs</h2>
 
 <p>
-  <img alt="Dell G7" src="https://img.shields.io/badge/dell%20G7%20notebook-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+  <img alt="Dell Gaming 7567" src="https://img.shields.io/badge/dell%20Gaming%207567%20notebook-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
 </p>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 <p>
-  <img alt="Intel Core i7 8TH" src="https://img.shields.io/badge/Intel%20Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img alt="Intel Core i7 7TH" src="https://img.shields.io/badge/Intel%20Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 <p>
   <img alt="16GB RAM" src="https://img.shields.io/badge/16GB%20RAM-323330?style=for-the-badge" />
 </p>
 <p>
-  <img alt="GTX 1060 Max-Q" src="https://img.shields.io/badge/NVIDIA-GTX1060%20MAX_Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="GTX 1050 TI 4GB" src="https://img.shields.io/badge/NVIDIA-GTX%201050%20TI%204GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
