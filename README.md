@@ -6,7 +6,9 @@
   Nice to see you! </br>
   I'm Luke Yoshioka, Developer from 
   <b>São Paulo, Brazil</b>
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" />.
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" />,
+  currently living in <b>Hamamatsu, Japan</b>
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="15" />.
 </p>
 
 <p>
@@ -14,8 +16,8 @@
 </p>
 <p>
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <!-- <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> -->
 </p>
 
 <h2>Things I code with</h2>
